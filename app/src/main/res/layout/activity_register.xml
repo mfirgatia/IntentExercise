@@ -182,6 +182,7 @@
         android:layout_marginStart="16dp"
         android:layout_marginEnd="16dp"
         android:layout_marginBottom="8dp"
+        android:onClick="handleRegister"
         android:background="@drawable/btn_red_large"
         android:text="@android:string/ok"
         android:textColor="@android:color/white"
